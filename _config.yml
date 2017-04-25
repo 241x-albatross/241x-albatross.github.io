@@ -1,0 +1,27 @@
+# Site Settings
+title:               AA241x Albatross Team Website
+tagline:             Updates and Documentation
+description:
+baseurl:            
+url:                "https://241x-albatross.github.io"
+github:
+  url:               #"https://lenpaul.github.io/Lagrange"
+author:
+  name:              "Albatross Team"
+  email:             #"l.nguyen.paul@gmail.com"
+navigation:
+- title: About
+  url: /about
+- title: Writing
+  url: /writing
+- title: Contact
+  url: /contact
+
+paginate:            5
+disqus:              #"your-disqus"
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+gems:                [jekyll-paginate]
