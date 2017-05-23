@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "Problem Set 2: System Identification"
+title: "Problem Set 2: Controls and New Plane Design"
 categories: journal
 tags: [documentation,sample]
-image:
-  feature: flight1.jpg
-  teaser: flight1.jpg
-  creditlink: ""
 ---
 
 We assembled a Bixler 3 RC aircraft and flew it to perform some system identification.
