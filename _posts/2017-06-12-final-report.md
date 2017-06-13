@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Problem Set 3: Line Tracking, Waypoint Following, Final Aircraft Design"
+title: "Final Report"
 categories: journal
 tags: [documentation,sample]
 ---
